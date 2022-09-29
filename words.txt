@@ -1,0 +1,15 @@
+run correr
+swimn nadar
+read leer
+write escribir
+car carro
+dog perro
+while mientras
+he el
+she ella
+us nosotros
+they ellos
+woman mujer
+man hombre
+toster tostador
+sandwich emparedado
